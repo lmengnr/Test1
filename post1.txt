@@ -1,3 +1,6 @@
 First post of test1
 For testing Git and Github.
 Next task is to add and commit
+
+---------------------------------------
+Text below line is added after the first commit.
